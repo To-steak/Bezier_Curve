@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f96ce38e2e20d40478c4316b431b813b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyRigid: {instanceID: 0}
+  - enemyHitBox: {instanceID: 0}
+  - enemyBoxCollider: {instanceID: 0}
+  - navMeshAgent: {instanceID: 0}
+  - target: {instanceID: 0}
+  - enemyAnimator: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - hitSc: {fileID: 8300000, guid: baf018fa226ee9d4dbfe58b8db3ee5fb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
